@@ -15,8 +15,11 @@ This project is an excellent way to practice Python programming concepts like lo
 ---
 
 ## 📂 **Project Structure**
-guess-the-number/ │ ├── guess_the_number.py # Main game script ├── README.md # Project documentation
-
+``` plaintext
+guess-the-number/
+├── guess_the_number.py # Main game script
+├── README.md # Project documentation
+```
 ---
 
 ## 🔧 **How to Run the Game**
